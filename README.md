@@ -11,7 +11,6 @@ air_quality_monitoring/
 |
 ├── backend/         # Backend desenvolvido em Python com FastAPI
 │   ├── app/
-│   │   ├── main.py         # Inicialização da aplicação FastAPI
 │   │   ├── data_simulator.py  # Simulador de dados de qualidade do ar
 │   │   └── models.py       # Modelos para dados da API
 │   └── requirements.txt    # Dependências do Backend
